@@ -1,5 +1,6 @@
 # Creating a Color-Coded Voter Preference v Population Map of America 
-![alt text](http://url/to/img.png)
+![The Output and End Goal of this Project!](![image](https://github.com/user-attachments/assets/36fcf2bc-d282-4875-949f-ad6b01346296)
+)
 
 This project is very much a work in progress.  It has been an educational tool to help me, as a cartography beginner, learn some basic concepts of map making, projection, and R-based raytracing.
 
