@@ -1,6 +1,5 @@
-readme markdown
-
 # Creating a Color-Coded Voter Preference v Population Map of America 
+![alt text](http://url/to/img.png)
 
 This project is very much a work in progress.  It has been an educational tool to help me, as a cartography beginner, learn some basic concepts of map making, projection, and R-based raytracing.
 
