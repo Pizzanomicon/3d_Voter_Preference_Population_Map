@@ -1,5 +1,5 @@
 # Creating a Color-Coded Voter Preference v Population Map of America 
-![The Output and End Goal of this Project!](![image](https://github.com/user-attachments/assets/36fcf2bc-d282-4875-949f-ad6b01346296)
+![The Output and End Goal of this Project!](![image]([https://github.com/user-attachments/assets/36fcf2bc-d282-4875-949f-ad6b01346296](https://github.com/Pizzanomicon/3d_Voter_Preference_Population_Map/blob/main/images/Americas_Spikey_Voting_2020-v1.04.png))
 )
 
 This project is very much a work in progress.  It has been an educational tool to help me, as a cartography beginner, learn some basic concepts of map making, projection, and R-based raytracing.
