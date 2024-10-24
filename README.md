@@ -10,6 +10,9 @@ Future work will merge this into a single Pythonic solution
 * Choropleth map - A color-filled thematic map that is used to represent statistical data using color mapping symbology within defined boundaries.
 
 ## Step 0:  Preperation
+MIT Election Data and Science Lab, 2018, "County Presidential Election Returns 2000-2020", https://doi.org/10.7910/DVN/VOQCHQ, Harvard Dataverse, V13; countypres_2000-2020.tab [fileName], UNF:6:KNR0/XNVzJC+RnAqIx5Z1Q== [fileUNF]
+
+
 * Download, collate, and clean voter data.
   * Not all states sum the voter information into a "total" row
   * Alaska does not/cannot return county data, so it will not be used.
