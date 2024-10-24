@@ -10,6 +10,9 @@ Future work will merge this into a single Pythonic solution
 * Choropleth map - A color-filled thematic map that is used to represent statistical data using color mapping symbology within defined boundaries.
 
 ## Step 0:  Preperation
+
+Election data from:
+
 MIT Election Data and Science Lab, 2018, "County Presidential Election Returns 2000-2020", https://doi.org/10.7910/DVN/VOQCHQ, Harvard Dataverse, V13; countypres_2000-2020.tab [fileName], UNF:6:KNR0/XNVzJC+RnAqIx5Z1Q== [fileUNF]
 
 
@@ -24,7 +27,7 @@ MIT Election Data and Science Lab, 2018, "County Presidential Election Returns 2
 
 
 ### todo:
-The processing done in Excel could more easily be done in Python.  There's no reason not to do this at time-of-processing in future condensed code.
+Check that there are no individual counties that are broken, which often tends to be the case straight out of the download.
 
 ## Step 1: Make Coropleth
 This, ultimately, is the texture map to be used in the last stage of the render.  But x
