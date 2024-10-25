@@ -1,0 +1,4 @@
+newmtl ray_surface 
+map_Kd AlbersSpikes_v4.png 
+illum 0 
+
